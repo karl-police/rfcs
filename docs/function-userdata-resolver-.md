@@ -14,7 +14,7 @@ One paragraph explanation of the feature.
 > Why are we doing this? What use cases does it support? What is the expected outcome?
 
 Currently Userdata looks like this, when used as a key and when converted into a string.
-```lua
+```
 {
   [Userdata(16A564EB788)] = "userdata: 0x05d3997bf7c3621a"
 }
